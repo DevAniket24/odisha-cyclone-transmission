@@ -1,0 +1,58 @@
+{
+  "any_damage": {
+    "theta": 81.91127349334212,
+    "beta": 0.13676024236574602,
+    "theta_ci90": [
+      79.77770337917221,
+      84.79537818664706
+    ],
+    "beta_ci90": [
+      0.11803765456505293,
+      0.15756822102607065
+    ],
+    "n_sample": 13630,
+    "n_events": 128,
+    "predicted_events": 126.40227597728787,
+    "im": "3-s gust at 10 m (m/s), WMO exposure-based, from IMD 3-min track",
+    "source": "Notebook 02 MLE on Fani"
+  },
+  "collapse": {
+    "theta": 86.07799273897328,
+    "beta": 0.14919590965413035,
+    "theta_ci90": [
+      82.38337333577613,
+      89.67215239601165
+    ],
+    "beta_ci90": [
+      0.12241329831576932,
+      0.17515560587380133
+    ],
+    "n_sample": 13630,
+    "n_events": 87,
+    "predicted_events": 85.68799904926989,
+    "im": "3-s gust at 10 m (m/s), WMO exposure-based, from IMD 3-min track",
+    "source": "Notebook 02 MLE on Fani"
+  },
+  "raj_collapse": {
+    "theta": 81.25,
+    "beta": 0.104,
+    "source": "Raj, Kumar & Bhatia (IMD\u00d71.58, model ensemble)"
+  },
+  "raj_functional": {
+    "theta": 77.88888888888889,
+    "beta": 0.088,
+    "source": "Raj, Kumar & Bhatia"
+  },
+  "settings": {
+    "track": "IBTrACS v04r01 (IMD/RSMC New Delhi winds, JTWC RMW)",
+    "p_env": 1008.0,
+    "rmw_default_km": 30.0,
+    "avg_s": 180,
+    "sample_km": 150,
+    "sample_kv": [
+      132,
+      220
+    ],
+    "exposure_src": "FALLBACK rule: \u22642 km from coast = off-sea, else in-land (Earth Engine not used)"
+  }
+}

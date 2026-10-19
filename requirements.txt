@@ -1,0 +1,13 @@
+# Python packages used by the notebooks (Google Colab already includes most of them)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.5
+pyarrow>=12
+openpyxl>=3.1
+requests>=2.31
+meteostat>=1.6,<2
+earthengine-api>=0.1.380

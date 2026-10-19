@@ -1,0 +1,82 @@
+line_id,line_name,voltage_kv,towers,ratio_max,share_exceed,median_span_m
+125,Dhirapur – Puri_Main,132,111,0.98,0.0,276.61
+126,Puri_Main – Puri,132,13,0.97,0.0,155.77
+34,Puri – Khordha 2,220,165,0.97,0.0,279.56
+128,Puri_Main – Khordha,132,196,0.97,0.0,300.07
+139,Jagatsinghpur – Goraknath,132,64,0.97,0.0,266.2
+138,Jagatsinghpur – Cuttack_Canal Road,132,126,0.96,0.0,300.27
+127,Dhirapur – Chandaka,132,212,0.96,0.0,289.44
+235,Paradeep Phosphorous – Paradeep,132,34,0.96,0.0,191.88
+40,Paradeep – Duburi,220,190,0.96,0.0,275.08
+234,Kendrapara – Paradeep,132,117,0.96,0.0,311.81
+41,Essar Steel – Paradeep,220,40,0.96,0.0,211.69
+236,Paradeep – IFFCO Plant,132,34,0.96,0.0,214.86
+225,Bhadrak – Dhamra Port,132,251,0.95,0.0,264.23
+231,Kendrapara – Jaipur road,132,43,0.94,0.0,319.25
+233,Pattamundai – Kendrapara,132,68,0.93,0.0,300.48
+120,Rambha Station – Chatrapur,132,100,0.93,0.0,296.73
+137,Mancheshwar – Kuranganasan,132,44,0.93,0.0,274.54
+119,Chatrapur – Balugaon,132,210,0.93,0.0,301.21
+116,Jaganathpur – Chatrapur,132,50,0.93,0.0,285.25
+117,IREL – Chatrapur,132,21,0.93,0.0,299.11
+118,ASKA – Chatrapur,132,150,0.93,0.0,309.18
+121,Jayshree Chemicals – Chatrapur,132,42,0.93,0.0,304.22
+283,OPTCL_Salepur – ICCL_1,132,99,0.93,0.0,272.39
+31,Jaganathpur – Khordha,220,440,0.92,0.0,303.6
+33,Khordha 2 – Khordha,220,89,0.92,0.0,267.49
+274,Khordha – Kholdwar,132,75,0.92,0.0,271.83
+129,Kalipadar Road – Khordha,132,47,0.92,0.0,257.83
+303,Mendhasal – Khordha 2,400,106,0.92,0.0,270.61
+124,Balugaon – Khordha,132,197,0.92,0.0,314.57
+32,Jaganathpur – Chamakandi,220,34,0.92,0.0,232.98
+123,Balugaon – Solari BH,132,55,0.92,0.0,283.23
+133,Chandaka – Mancheshwar,132,22,0.91,0.0,254.84
+134,Mancheshwar – Chandaka,132,14,0.91,0.0,257.82
+136,Mancheshwar – Cuttack_Canal Road,132,70,0.91,0.0,292.38
+39,Cuttack – Cuttack_Canal Road,220,40,0.91,0.0,268.59
+130,Khordha – Mendhasal,132,58,0.91,0.0,302.6
+38,Mendhasal – Chandaka,220,70,0.91,0.0,276.76
+36,Mendhasal – Chandaka,220,75,0.91,0.0,286.65
+131,Mendhasal – Chandaka,132,70,0.91,0.0,295.67
+304,Mendhasal – Duburi,400,189,0.91,0.0,360.19
+37,Cuttack – Mendhasal,220,118,0.91,0.0,272.51
+297,Meramundali – Mendhasal,400,92,0.91,0.0,360.49
+135,Chandaka – TS Alloys,132,56,0.91,0.0,285.94
+35,Khordha – Mendhasal,220,89,0.91,0.0,297.53
+29,Mendhasal – Bhanjanagar,220,261,0.91,0.0,307.15
+273,Khordha – OPTCL Ragadi,132,76,0.91,0.0,271.75
+278,Cuttack – Choudwar,132,68,0.91,0.0,305.03
+277,Choudwar – TS Alloys_2,132,32,0.91,0.0,286.35
+28,Therubali – Jaganathpur,220,180,0.91,0.0,313.97
+115,Brahmapur – Jaganathpur,132,42,0.91,0.0,284.03
+284,OCL_Tangi – ICCL_1,132,54,0.9,0.0,259.81
+280,Kendrapara Road – Choudwar,132,21,0.9,0.0,188.88
+268,NVBL_1 – Choudwar,132,62,0.9,0.0,273.98
+279,Cuttack – Choudwar,132,21,0.9,0.0,243.05
+282,ICCL_2 – ICCL_1,132,4,0.9,0.0,55.51
+271,Gundchipada – Choudwar,132,39,0.9,0.0,294.2
+281,Choudwar – ICCL_1,132,4,0.9,0.0,171.61
+113,Mohana – Brahmapur,132,151,0.9,0.0,314.14
+114,Brahmapur – ASKA,132,117,0.9,0.0,295.55
+272,OPTCL Ragadi – Nuapatna,132,59,0.9,0.0,265.83
+1,Angul – Palasa,765,335,0.89,0.0,386.78
+327,Jeypore – Omfed Chilling Plant,400,324,0.89,0.0,380.6
+215,Jaleshwar – Basta,132,195,0.89,0.0,300.36
+43,Duburi_ Old – Bhadrak,220,340,0.88,0.0,303.96
+227,Bhadrak – Jaipur road,132,80,0.88,0.0,307.95
+221,Balasore – Bhadrak,132,249,0.88,0.0,312.15
+224,Soro – Balasore,132,5,0.88,0.0,224.61
+216,Jaleshwar – Jaleshwar Station,132,10,0.88,0.0,270.65
+217,Balasore – Basta,132,4,0.88,0.0,120.08
+305,Baripada – Duburi,400,266,0.88,0.0,377.74
+44,Bhadrak – Balasore,220,4,0.88,0.0,170.32
+214,Baripada_2 – Balasore,132,43,0.87,0.0,291.05
+226,Bhadrak – Bhadrak Station,132,34,0.87,0.0,256.3
+220,Balasore – Birla Tyres,132,17,0.87,0.0,110.35
+218,Balasore – Balasore_Traction,132,26,0.87,0.0,162.76
+222,Emami Paper – Balasore,132,32,0.87,0.0,257.51
+42,Baripada – Balasore,220,60,0.87,0.0,257.74
+219,Balasore – Stork Ferro Industries,132,22,0.87,0.0,179.31
+122,ASKA – Bhanjanagar,132,85,0.86,0.0,316.8
+223,Stork Ferro Industries – Balasore,132,2,0.86,0.0,166.54
+27,Therubali – Bhanjanagar,220,19,0.84,0.0,280.36

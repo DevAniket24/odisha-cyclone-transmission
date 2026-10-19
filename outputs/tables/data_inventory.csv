@@ -1,0 +1,9 @@
+dataset,source,local_path,records,status,note,accessed_utc
+Raj et al. Odisha transmission network,https://github.com/surendervraj/cyclone-prepardness-for-regional-power-transmission-network,/content/drive/MyDrive/CDRI_Odisha/data/external/raj_network,41814,ok,,2026-10-18 07:05
+"Fani tower damage (OPTCL via RTI, Raj et al.)",https://github.com/surendervraj/cyclone-prepardness-for-regional-power-transmission-network,/content/drive/MyDrive/CDRI_Odisha/data/external/raj_network/Step2 -Damage data_fragility,128,ok,,2026-10-18 07:05
+Coastline,https://naciscdn.org/naturalearth/10m/physical/ne_10m_coastline.zip,/content/drive/MyDrive/CDRI_Odisha/data/raw/ne_10m_coastline.zip,4,ok,,2026-10-18 07:05
+District boundaries,GADM 4.1,/content/drive/MyDrive/CDRI_Odisha/data/raw/gadm41_IND_2.json.zip,30,ok,,2026-10-18 07:05
+"STORM present-climate tracks, NI basin",https://data.4tu.nl/articles/_/12706085,/content/drive/MyDrive/CDRI_Odisha/data/interim/storm_NI,379785,ok,,2026-10-18 07:06
+STORM tracks within 300 km of Odisha coast,derived,/content/drive/MyDrive/CDRI_Odisha/data/processed/storm_NI_odisha300km.parquet,85710,ok,,2026-10-18 07:06
+IBTrACS v04r01 NI,https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/csv/ibtracs.NI.list.v04r01.csv,/content/drive/MyDrive/CDRI_Odisha/data/raw/ibtracs.NI.list.v04r01.csv,62864,ok,,2026-10-18 07:06
+"Station observations, Fani (Meteostat / NOAA ISD)",meteostat.net,/content/drive/MyDrive/CDRI_Odisha/data/processed/fani_station_obs_meteostat.csv,958,ok,,2026-10-18 07:06

@@ -1,0 +1,7 @@
+test,basis,share_exceed,median_ratio
+KR_LAND = 1.0,10-min vs IS 802:1995 RL1,0.0,0.904
+KR_LAND = 0.9,10-min vs IS 802:1995 RL1,0.0,0.814
+KR_LAND = 0.85,10-min vs IS 802:1995 RL1,0.0,0.768
+all towers off-sea,3-s vs IS 875 Vb,0.437,0.989
+all towers off-land,3-s vs IS 875 Vb,1.0,1.09
+all towers in-land,3-s vs IS 875 Vb,1.0,1.19

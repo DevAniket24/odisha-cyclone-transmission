@@ -1,0 +1,33 @@
+# Key numbers for the briefing note
+
+| metric | value | unit | source |
+|---|---|---|---|
+| Fani: damaged towers in records (132/220 kV) | 128.0 | towers | OPTCL via RTI (Raj et al.); fani_tower_wind.parquet |
+| Fani: of which collapsed | 87.0 | towers | same |
+| Fani: median modelled 3-s gust at damaged towers | 72.9 | m/s | Notebook 02 |
+| Fani: damaged towers where gust exceeded IS 875 Vb (50 m/s) | 96.0 | % | Notebook 02 |
+| Fani: damaged towers where 10-min wind exceeded OPTCL design (39.3 m/s) | 84.0 | % | Notebook 02 |
+| Fragility (any_damage): median | 81.9 | m/s 3-s gust | Notebook 02 (MLE on Fani) |
+| Fragility (any_damage): dispersion β | 0.137 | - | Notebook 02 |
+| Fragility (collapse): median | 86.1 | m/s 3-s gust | Notebook 02 (MLE on Fani) |
+| Fragility (collapse): dispersion β | 0.149 | - | Notebook 02 |
+| Code gap: towers where hazard exceeds OPTCL design (IS 802:1995 RL1, 50-yr) | 0.0 | % of study-domain towers | Notebook 04 |
+| Code gap: median hazard ÷ OPTCL design (IS 802:1995 RL1, 50-yr) | 0.9 | ratio | Notebook 04 |
+| Code gap: towers where hazard exceeds IS 875 Vb (50-yr) | 100.0 | % of study-domain towers | Notebook 04 |
+| Code gap: median hazard ÷ IS 875 Vb (50-yr) | 1.19 | ratio | Notebook 04 |
+| Expected annual damage (repairs + outage) | 167.5 | INR crore/yr | Notebook 05 |
+|   of which repairs | 68.2 | INR crore/yr | Notebook 05 |
+|   of which outage | 99.3 | INR crore/yr | Notebook 05 |
+| Expected towers damaged per year | 93.4 | towers/yr | Notebook 05 |
+| 25-year loss | 744.0 | INR crore | Notebook 05 |
+| 50-year loss | 2894.0 | INR crore | Notebook 05 |
+| 100-year loss | 5516.0 | INR crore | Notebook 05 |
+| (a) raise design wind, new lines: BCR | 0.49 | - | Notebook 06 |
+| (a) raise design wind, new lines: BCR on repairs only | 0.22 | - | Notebook 06 |
+| (a) raise design wind, new lines: NPV (30 yr) | -190.0 | INR crore | Notebook 06 |
+| (b) harden top corridors: BCR | 0.17 | - | Notebook 06 |
+| (b) harden top corridors: BCR on repairs only | 0.1 | - | Notebook 06 |
+| (b) harden top corridors: NPV (30 yr) | -893.0 | INR crore | Notebook 06 |
+
+Figures: outputs/figures/07_fig1–4 (300 dpi PNG).
+All values depend on the settings in Notebooks 02–06; re-run those notebooks after changing any setting.

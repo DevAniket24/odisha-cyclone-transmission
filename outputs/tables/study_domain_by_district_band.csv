@@ -1,0 +1,16 @@
+district,band,towers,damaged_fani,collapsed_fani,median_span_m
+Balasore,0-20 km,613,0,0,301.0
+Balasore,20-60 km,367,0,0,309.0
+Bhadrak,0-20 km,143,0,0,262.0
+Bhadrak,20-60 km,517,0,0,307.0
+Cuttack,20-60 km,988,6,1,285.0
+Ganjam,0-20 km,890,0,0,304.0
+Ganjam,20-60 km,1209,0,0,339.0
+Jagatsinghpur,0-20 km,229,0,0,242.0
+Jagatsinghpur,20-60 km,50,0,0,301.0
+Kendrapara,0-20 km,72,0,0,288.0
+Kendrapara,20-60 km,309,0,0,296.0
+Khordha,0-20 km,424,3,2,302.0
+Khordha,20-60 km,1418,16,12,291.0
+Puri,0-20 km,361,93,64,278.0
+Puri,20-60 km,139,10,8,301.0

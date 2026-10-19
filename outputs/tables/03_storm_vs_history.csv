@@ -1,0 +1,6 @@
+site,storm_rate_ge25,hist_rate_ge25,storm_rate_ge33,hist_rate_ge33,hist_max_v10
+Puri,0.064,0.043,0.031,0.043,53.671
+Paradip,0.066,0.043,0.031,0.021,61.821
+Gopalpur,0.06,0.085,0.027,0.085,49.266
+Balasore,0.05,0.043,0.023,0.021,35.93
+Bhubaneswar,0.058,0.043,0.028,0.043,58.433
